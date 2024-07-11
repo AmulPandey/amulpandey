@@ -3,7 +3,7 @@
 <h3 align="center">Building Solutions with Code : Android, DSA, and Beyond</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulpandey&label=Profile%20views&color=0e75b6&style=flat" alt="amulpandey" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/03/a4/a5/03a4a5f034bf0bafa661fd8a8aabedc8.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
 - 💬 Ask me about **Android , DSA**
 
