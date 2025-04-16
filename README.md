@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **amulpandey007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BF41mUUfs8m3EK8CyIJV3QJM6sZExkE5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xVI-iPFPWYkXnHWuNqWZaT8nzbbKSC7_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amulpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amulpandey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/amulpandey" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/amulpandey" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/amulpandey007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amulpandey007/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amulpandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amulpandey" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amulpandey" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/amulpandey" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/amulpandey007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amulpandey007/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
