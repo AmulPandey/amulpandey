@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amulpandey007@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GK1D8gfCGxsUgF76Mi5bjiyMQbph7rQu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PpYed_Wl4A9EXbrW1ZLBITqIuU3O2VtJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
