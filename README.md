@@ -1,26 +1,143 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Amul Pandey</h1>
-<h3 align="center">Building Solutions with Code : Android, DSA, and Beyond</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulpandey&label=Profile%20views&color=0e75b6&style=flat" alt="amulpandey" /> </p>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b6ff0,50:a89df5,100:c4b8ff&height=200&section=header&text=Amul%20Pandey&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Android%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
-- 💬 Ask me about **Android , DSA**
+</div>
 
-- 📫 How to reach me **amulpandey007@gmail.com**
+<div align="center">
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PpYed_Wl4A9EXbrW1ZLBITqIuU3O2VtJ/view?usp=sharing)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A89DF5&center=true&vCenter=true&multiline=false&random=false&width=550&lines=Building+Solutions+with+Code+%F0%9F%9A%80;Android+%7C+Kotlin+%7C+Java+%F0%9F%93%B1;Open+to+Opportunities+%F0%9F%92%BC;Always+Shipping%2C+Always+Learning+%E2%9C%A8)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/amulpandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amulpandey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amulpandey" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/amulpandey" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/amulpandey007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/amulpandey007/" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=amulpandey&label=Profile+Views&color=7b6ff0&style=flat-square&labelColor=0d1117" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulpandey&show_icons=true&locale=en&layout=compact" alt="amulpandey" /></p>
+</div>
 
 
+---
+
+## 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amulpandey/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/amulpandey007/">
+  <img src="https://img.shields.io/badge/LeetCode-%23F89F1B.svg?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/amulpandey">
+  <img src="https://img.shields.io/badge/CodeChef-%23FF6C00.svg?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="mailto:amulpandey007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1PpYed_Wl4A9EXbrW1ZLBITqIuU3O2VtJ/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-%237B6FF0.svg?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+#### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 💻 Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+#### 🔧 Backend & Database
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/amulpandey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amulpandey&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=a89df5&icon_color=7b6ff0&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulpandey&layout=compact&theme=transparent&hide_border=true&title_color=a89df5&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=amulpandey&theme=transparent&hide_border=true&background=0d1117&ring=7b6ff0&fire=a89df5&currStreakLabel=a89df5&sideLabels=c9d1d9&dates=6e6e8a&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amulpandey&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amulpandey&bg_color=0d1117&color=a89df5&line=7b6ff0&point=ffffff&area=true&area_color=7b6ff020&hide_border=true" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💬 Ask me about
+`Android` &nbsp;&nbsp; `Kotlin` &nbsp;&nbsp; `Java` &nbsp;&nbsp; `Firebase` &nbsp;&nbsp; `Spring Boot`
+
+<br/>
+
+### 📫 Reach me at
+**amulpandey007@gmail.com**
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b6ff0,50:a89df5,100:c4b8ff&height=120&section=footer&animation=fadeIn" />
+
+</div>
