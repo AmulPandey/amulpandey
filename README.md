@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1PpYed_Wl4A9EXbrW1ZLBITqIuU3O2VtJ/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1d-s6A4_XxyNsXTNzRezXfflTZSb4xq1l/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-%237B6FF0.svg?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117" />
 </a>
 
